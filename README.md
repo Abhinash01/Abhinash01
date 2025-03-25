@@ -6,8 +6,6 @@ Hey there! I'm Abhinash Gupta, a passionate Web Developer with a strong foundati
 
 📈 Exploring SEO to improve website performance</br>
 
-📚 Preparing for the OJEE MCA entrance exam, sharpening my Mathematics skills</br>
-
 💡 Sharing my learning journey on LinkedIn & Twitter</br>
 
 🛠️ Tech Stack:</br>
