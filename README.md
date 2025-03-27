@@ -25,4 +25,6 @@ Tools & Platforms: Git, GitHub </br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+[![Abhinash Gupta profile views](https://u8views.com/api/v1/github/profiles/97685347/views/day-week-month-total-count.svg)](https://u8views.com/github/Abhinash01)
+
 Feel free to check out my projects and follow my journey! 🚀 </br>
