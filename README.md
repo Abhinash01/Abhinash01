@@ -24,7 +24,7 @@ Tools & Platforms: Git, GitHub </br>
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhinash01&theme=dark&hide_border=false)<br/>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhinash01&icon=0&color=0)](https://visitcount.itsvg.in)
 
