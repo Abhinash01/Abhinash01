@@ -4,7 +4,6 @@ Hey there! I'm Abhinash Gupta, a passionate Web Developer with a strong foundati
 🚀 What I'm Working On:</br>
 🌐 Building web projects to enhance my development skills</br>
 
-📈 Exploring SEO to improve website performance</br>
 
 💡 Sharing my learning journey on LinkedIn & Twitter</br>
 
