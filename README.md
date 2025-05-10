@@ -1,5 +1,5 @@
 💻 Abhinash Gupta | Web Developer </br>
-Hey there! I'm Abhinash Gupta, a passionate Web Developer with a strong foundation in HTML, CSS, JavaScript, and PHP. I recently completed my Bachelor in Computer Applications (BCA) and am now fully focused on honing my web development skills.</br>
+Yo! I'm Abhinash Gupta, a passionate Web Developer with a strong foundation in HTML, CSS, JavaScript, and PHP. I recently completed my Bachelor in Computer Applications (BCA) and am now fully focused on honing my web development skills.</br>
 
 🚀 What I'm Working On:</br>
 🌐 Building web projects to enhance my development skills</br>
