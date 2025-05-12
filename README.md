@@ -5,7 +5,7 @@ Yo! I'm Abhinash Gupta, a passionate Web Developer with a strong foundation in H
 🌐 Building web projects to enhance my development skills</br>
 
 
-💡 Sharing my learning journey on LinkedIn & Twitter</br>
+💡 Sharing my Learning Journey on LinkedIn & Twitter</br>
 
 🛠️ Tech Stack:</br>
 Frontend: HTML, CSS, JavaScript</br>
